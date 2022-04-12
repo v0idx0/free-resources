@@ -14,3 +14,11 @@ This repository will be constantly updated. If you have any updates to make, get
   <li><a href="https://drive.google.com/file/d/1sTV3OH3ptxWO9J_D0HubArV1MyrzMJR6/view?usp=sharing">Practical Binary Analysis - Author: Dennis Andriesse</a></li>
   <li><a href="https://mentebinaria.gitbook.io/assembly/a-base">Aprendendo Assembly (x86) - Author: Mente Binária</a> - Acesse o <a href="https://www.mentebinaria.com.br/">Mente Binária</a></li>
 </ul>
+
+<hr>
+
+### References
+
+<ul>
+  <li><a href="http://eds000n.github.io/syscalls-x86.html">Linux Syscalls Reference</a></li>
+</ul>
