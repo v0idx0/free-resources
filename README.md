@@ -21,6 +21,15 @@ This repository will be constantly updated. If you have any updates to make, get
 
 <hr>
 
+### Courses
+
+<ul>
+  <li><a href="https://wagnergaspar.com/curso-gratuito-de-programacao-c/">Curso Gratuito de Programação em C - Wagner Gaspar</a></li>
+  <li><a href="https://www.youtube.com/watch?v=0lfikxs967c&list=PLxTkH01AauxRm0LFLlOA9RR5O6hBLqBtC">Assembly na Prática - Especial 30 anos de Linux</a></li>
+</ul>
+
+<hr>
+
 ### References
 
 <ul>
