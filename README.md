@@ -17,6 +17,7 @@ This repository will be constantly updated. If you have any updates to make, get
   <li><a href="https://drive.google.com/file/d/1OMU0svKIhSH_jPl1Kmft541yEx5IbH3e/view?usp=sharing">AsmNasm - Author: Fernando Anselmo</a></li>
   <li><a href="https://drive.google.com/file/d/1P-itoQYMxVlTPB6EUVbn9EuqSYGWLFme/view?usp=sharing">Reversing C++ - Author: Paul Vincent Sabanal & Mark Vincent Yason</a></li>
   <li><a href="https://drive.google.com/file/d/1WhlWON1mcPvtSxcBAMQ5If73n6smkSJR/view?usp=sharing">Penetration Testing with the Bash Shell - Author: Keith Makan</a></li>
+  <li><a href="https://drive.google.com/file/d/1MJ9LZ2azfoTabqEC7XGT4XyYpK3pKQHG/view?usp=sharing">Estrutura de Dados - Author: Ricardo Balieiro</a></li>
 </ul>
 
 <hr>
