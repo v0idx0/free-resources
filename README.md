@@ -18,6 +18,10 @@ This repository will be constantly updated. If you have any updates to make, get
   <li><a href="https://drive.google.com/file/d/1P-itoQYMxVlTPB6EUVbn9EuqSYGWLFme/view?usp=sharing">Reversing C++ - Author: Paul Vincent Sabanal & Mark Vincent Yason</a></li>
   <li><a href="https://drive.google.com/file/d/1WhlWON1mcPvtSxcBAMQ5If73n6smkSJR/view?usp=sharing">Penetration Testing with the Bash Shell - Author: Keith Makan</a></li>
   <li><a href="https://drive.google.com/file/d/1MJ9LZ2azfoTabqEC7XGT4XyYpK3pKQHG/view?usp=sharing">Estrutura de Dados - Author: Ricardo Balieiro</a></li>
+  <li><a href="https://drive.google.com/file/d/1rZqkyt1fxqfFL25vXzTBRQtcSqKy_JnJ/view?usp=sharing">Como o Linux funciona - Author: Bryan Ward</a></li>
+  <li><a href="https://drive.google.com/file/d/1I33f6CUhiKHXOEFP4--v97LM0BiYQTT5/view?usp=sharing">Introdução ao Linux - Author: Arthur Mendes Peixoto & Andreia Gentil Bonfante</a></li>
+    <li><a href="https://drive.google.com/file/d/1e1PwBr3b9mmpn3xq1EI6w1GCveZ-VQUR/view?usp=sharing">Linux a Bíblia </a></li>
+
 </ul>
 
 <hr>
@@ -36,6 +40,7 @@ This repository will be constantly updated. If you have any updates to make, get
 <ul>
   <li><a href="https://syscalls.w3challs.com/?arch=x86">Linux Syscalls Reference</a></li>
   <li><a href="https://drive.google.com/file/d/1OBGGhqLiGdZpmykU91fbehM2JFpp4mPO/view?usp=sharing">Practical C++ Descompilation</a></li>
+  <li><a href="https://drive.google.com/file/d/1cC3ukdQO7ERtIi0-Md30ABNOdYpuVUXx/view?usp=sharing">Guia 500 comandos do Linux</a></li>
 </ul>
 
 <hr>
