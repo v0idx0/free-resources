@@ -20,8 +20,11 @@ This repository will be constantly updated. If you have any updates to make, get
   <li><a href="https://drive.google.com/file/d/1MJ9LZ2azfoTabqEC7XGT4XyYpK3pKQHG/view?usp=sharing">Estrutura de Dados - Author: Ricardo Balieiro</a></li>
   <li><a href="https://drive.google.com/file/d/1rZqkyt1fxqfFL25vXzTBRQtcSqKy_JnJ/view?usp=sharing">Como o Linux funciona - Author: Bryan Ward</a></li>
   <li><a href="https://drive.google.com/file/d/1I33f6CUhiKHXOEFP4--v97LM0BiYQTT5/view?usp=sharing">Introdução ao Linux - Author: Arthur Mendes Peixoto & Andreia Gentil Bonfante</a></li>
-    <li><a href="https://drive.google.com/file/d/1e1PwBr3b9mmpn3xq1EI6w1GCveZ-VQUR/view?usp=sharing">Linux a Bíblia </a></li>
-
+    <li><a href="https://drive.google.com/file/d/1e1PwBr3b9mmpn3xq1EI6w1GCveZ-VQUR/view?usp=sharing">Linux a Bíblia - Author: Christopher Negus</a></li>
+  <li><a href="https://drive.google.com/file/d/1PRyNs5r1cPujZLny6OjBUyZ-nJPU3GpD/view?usp=sharing">Practical Malware Analysis - Author: 
+Michael Sikorski & Andrew Honig</a></li>
+  <li><a href="https://drive.google.com/file/d/1hA345438e-79nyOz2qkoqj25UbUztzhn/view?usp=sharing">The Shellcoder's Handbook - Auhor: Chris Anley, John Heasman, Gerardo Richarte, Felix Lindner</a></li>
+  <li><a href="https://drive.google.com/file/d/1f_8-A8ftPhv6utL6gaObNWdqdhnOTclF/view?usp=sharing">The Web Application Hacker's Handbook - Author:  Marcus Pinto, Dafydd Stuttard</a></li>
 </ul>
 
 <hr>
