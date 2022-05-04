@@ -26,6 +26,7 @@ Michael Sikorski & Andrew Honig</a></li>
   <li><a href="https://drive.google.com/file/d/1hA345438e-79nyOz2qkoqj25UbUztzhn/view?usp=sharing">The Shellcoder's Handbook - Auhor: Chris Anley, John Heasman, Gerardo Richarte, Felix Lindner</a></li>
   <li><a href="https://drive.google.com/file/d/1f_8-A8ftPhv6utL6gaObNWdqdhnOTclF/view?usp=sharing">The Web Application Hacker's Handbook - Author:  Marcus Pinto, Dafydd Stuttard</a></li>
   <li><a href="https://drive.google.com/file/d/110HZJEH3kRBDlIIw8YzrMjNxGu1nTQmy/view?usp=sharing">Metasploit The Pentesters Guide - Author: David Kennedy, Jim O'Gorman, Devon Kearns, Mati Aharoni</li>
+  <li><a href="https://drive.google.com/file/d/1Tu6CNPwsijlTiKAcp_tzoRYt4IEKUC-9/view?usp=sharing">Practical Reversing Engineering - Author: Book by Alexandre Gazet, Bruce Dang, and Elias Bachaalany</a></li>
 </ul>
 
 <hr>
